@@ -1,5 +1,3 @@
-# Practical: Data Cleaning and Preprocessing Using Pandas
-
 # Step 1: Import Libraries
 import pandas as pd
 import numpy as np
